@@ -1,0 +1,30 @@
+{
+    "name": "Gunner Retreiver BreakOut",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "main.blocks",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "branch": "v1.12.21",
+        "tag": "v1.12.21",
+        "commits": "https://github.com/microsoft/pxt-arcade/commits/0cb2da5a909e7062f4a7611a9c2d9f35446a3657",
+        "target": "1.12.21",
+        "pxt": "8.5.29",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
